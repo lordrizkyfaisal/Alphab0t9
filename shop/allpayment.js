@@ -2,7 +2,7 @@ const allpayment = (prefix) => {
 return `PAYMENT BY ZEEONE OFC
 
 *さ BANK*
-1. BRI 
+1. BI 
 	ㅁ 5074-01-003141-52-8
 		• R***A*DI
 		
